@@ -34,7 +34,7 @@ VeriPay is a **Streamlit-based web app** that extracts key details from invoices
     - Invalid vendors
     - Duplicate invoice IDs
     - Suspicious patterns
-- Beautiful **dark theme UI** inspired by Base44.
+- Beautiful **dark theme UI**.
 
 ---
 
